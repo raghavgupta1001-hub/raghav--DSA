@@ -1,5 +1,5 @@
 public class overloading {
-    static void main(String[] args) {
+   public static void main(String[] args) {
        // fun(67);
         //fun("raghav");
         int ans = sum(56,45,78);
